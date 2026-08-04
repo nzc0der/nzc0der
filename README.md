@@ -10,6 +10,7 @@ Currently working with Python, JavaScript, backend systems, automation, AI tools
 </div>
 
 ---
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nzc0der)](https://github.com/stats-organization/github-stats-extended)
 
 # About Me
 
